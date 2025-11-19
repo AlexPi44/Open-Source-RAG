@@ -1,1 +1,9 @@
-
+huggingface-hub>=0.23.0
+leann
+gradio
+pypdf
+openai
+sentence-transformers
+accelerate
+torch
+transformers>=4.51.0
