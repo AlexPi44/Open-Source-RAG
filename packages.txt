@@ -1,0 +1,7 @@
+cmake
+g++
+gcc
+libomp-dev
+libopenblas-dev
+build-essential
+ninja-build
